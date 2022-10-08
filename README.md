@@ -111,12 +111,9 @@
 ## Github Status
 
 <p>
-<img align="left" style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="davezag Github status" />
+<img align="left" style="margin-bottom: 20px; width: 390px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="davezag Github status" /></p>
 
-&nbsp;<img align="right" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="davezag Github status" />
-<br/>
-<br/>
-<img  style="margin-top: 20px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="davezag Github status" /></p>
+<p>&nbsp;<img align="left" style="margin-bottom: 20px; width: 400px" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="davezag Github status" /></p>
 
-<br/><br/>
-## Happy Coding! 🙃
+
+<h3 align="left"> Happy Coding! 🙃</h3>
