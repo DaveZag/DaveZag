@@ -31,6 +31,10 @@
   </a>
 </p>
 
+<br/>
+
+---
+
 <h2 style="font-size:2.3rem">Technologies </h2> <img align="right" src='./images/200w.webp'/>
 
 <h3>Languages</h3>
@@ -95,10 +99,13 @@
     <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Linux"/>
   </a>
 </p>
-<br>
+
+---
 
 <h3> Visitors count </h3>
-<img src="https://profile-counter.glitch.me/DaveZag/count.svg" />
+<img src="https://profile-counter.glitch.me/DaveZag/count.svg" /><br/>
+
+---
 
 ## Github Status
 
@@ -108,6 +115,7 @@
 &nbsp;<img align="right" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="davezag Github status" />
 <br/>
 <br/>
-<img align="left" style="margin-top: 20px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="davezag Github status" /></p>
+<img  style="margin-top: 20px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="davezag Github status" /></p>
 
+<br/><br/>
 ## Happy Coding! 🙃
