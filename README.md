@@ -31,10 +31,7 @@
   </a>
 </p>
 
-<div style="display:flex; align-items:center; justify-content:space-between;">
-  <h2 style="font-size:2.3rem">Technologies </h2>
-  <img src='./images/200w.webp'/>
-</div>
+<h2 style="font-size:2.3rem">Technologies </h2> <img align="right" src='./images/200w.webp'/>
 
 <h3>Languages</h3>
 <p>
@@ -108,7 +105,7 @@
 <p>
 <img align="left" style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="d" />
 
-&nbsp;<img align="left" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="d" />
+&nbsp;<img align="right" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="d" />
 <br>
 <img align="center" style="margin-top: 20px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="d" /></p>
 
