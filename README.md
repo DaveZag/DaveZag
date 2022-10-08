@@ -99,6 +99,7 @@
     <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Linux"/>
   </a>
 </p>
+<br/>
 
 ---
 
