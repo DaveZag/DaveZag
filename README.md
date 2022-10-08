@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I'm quite tall so be aware if we ever meet.**
 
-<br />
-
 <h3>Connect with me</h3>
 
 <div style="margin-top:10px">
@@ -26,7 +24,6 @@
   </div>
 </div>
 <p>
-
 <h3>Reach me</h3>
 <p>
   <a href="mailto:davezag49@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
@@ -34,8 +31,10 @@
   </a>
 </p>
 
-<br>
-<div style="display:flex; align-items:center; justify-content:space-between;"><h2 style="font-size:2.3rem">Technologies </h2><img src='./images/200w.webp'/></div>
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <h2 style="font-size:2.3rem">Technologies </h2>
+  <img src='./images/200w.webp'/>
+</div>
 
 <h3>Languages</h3>
 <p>
@@ -107,10 +106,10 @@
 ## Github Status
 
 <p>
-<img align="left" style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="d" />
+<img align="left" style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="d" />
 
-&nbsp;<img align="left" style="margin-bottom: 1rem;" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="d" />
+&nbsp;<img align="left" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="d" />
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="d" /></p>
+<img align="center" style="margin-top: 20px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="d" /></p>
 
 ## Happy Coding! 🙃
