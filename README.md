@@ -1,37 +1,116 @@
 <h1 align="center">Hi  there<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Dave ZAGABE</h1>
-<h3 align="center">A web developer</h3>
+<h3 align="center">A web developer💻</h3>
 <br>
 <img align="center" src = "./images/pexels-errin-casano-2356059.jpg"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d&label=Profile%20views&color=0e75b6&style=flat" alt="d" /> </p>
+- 🔭 I’m currently studying at **Microverse.**
 
+- 🌱 I’m currently learning **ES6, React, Node.js and Ruby**
 
-- 🔭 I’m currently studying at **Microverse**
+- 👯 I’m looking to collaborate on **Projects and other cool creations.**
 
-- 🌱 I’m currently learning **ES6, React and Node.js**
+- ⚡ Fun fact **I'm quite tall so be aware if we ever meet.**
 
-- 👯 I’m looking to collaborate on **Projects and other cool stuffs**
+<br />
 
-- 💬 Ask me about **Frontend**
+<h3>Connect with me</h3>
 
-- 📫 How to reach me **@davezag49@gmail.com**
+<div style="margin-top:10px">
+  <div>
+    <a  href="https://www.linkedin.com/in/dave-zagabe/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    </a>
+    <a href="https://twitter.com/davezagabe2" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+  </div>
+</div>
+<p>
 
-- ⚡ Fun fact **I'm quite tall so be aware if we ever meet**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Reach me</h3>
+<p>
+  <a href="mailto:davezag49@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<img align="right" src = "./images/200w.webp"/>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="d" /></p><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="d" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="d" /></p>
+<div style="display:flex; align-items:center; justify-content:space-between;"><h2 style="font-size:2.3rem">Technologies </h2><img src='./images/200w.webp'/></div>
 
+<h3>Languages</h3>
+<p>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+   <a href="https://www.json.org/json-en.html" target="_blank">
+    <img src="https://img.shields.io/badge/Python-5E5C5C?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python"/>
+  </a>
+</p>
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<h3>Frameworks</h3>
+<p>
+      <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+  </a> 
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+      alt="Webpack"/>
+  </a>
+</p>
+
+<h3>Version Control & CI/CD</h3>
+<p>
+  <a href="https://github.com/daveZag" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="Git"/>
+  </a>
+</p>
+
+<h3>Other Tools</h3>
+<p>
+  <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/> 
+  </a>
+  <a href="https://www.kali.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Linux"/>
+  </a>
+</p>
+<br>
+
+<h3> Visitors count </h3>
+<img src="https://profile-counter.glitch.me/DaveZag/count.svg" />
+
+## Github Status
+
+<p>
+<img align="left" style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="d" />
+
+&nbsp;<img align="left" style="margin-bottom: 1rem;" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="d" />
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaveZag&" alt="d" /></p>
+
+## Happy Coding! 🙃
