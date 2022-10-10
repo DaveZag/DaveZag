@@ -52,7 +52,7 @@
       alt="javascript"/> 
   </a>
    <a href="https://www.json.org/json-en.html" target="_blank">
-    <img src="https://img.shields.io/badge/Python-5E5C5C?style=for-the-badge&logo=python&logoColor=white"
+    <img src="https://img.shields.io/badge/Python-306aFF?style=for-the-badge&logo=python&logoColor=F2C63D"
       alt="Python"/>
   </a>
 </p>
@@ -76,6 +76,14 @@
   </a>
 </p>
 
+<h3>Testing</h3>
+<p>
+      <a href="https://jestjs.io" target="_blank">
+    <img src="https://img.shields.io/badge/jest-913F56.svg?style=for-the-badge&logo=jest&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+</p>
+
 <h3>Version Control & CI/CD</h3>
 <p>
   <a href="https://github.com/daveZag" target="_blank">
@@ -89,7 +97,7 @@
 
 <h3>Other Tools</h3>
 <p>
-  <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   </a>
     <a href="https://code.visualstudio.com/" target="_blank">
@@ -114,6 +122,5 @@
 <img align="left" style="margin-bottom: 20px; width: 390px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="davezag Github status" /></p>
 
 <p>&nbsp;<img align="left" style="margin-bottom: 20px; width: 400px" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="davezag Github status" /></p>
-
 
 <h3 align="left"> Happy Coding! 🙃</h3>
