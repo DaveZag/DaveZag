@@ -39,13 +39,8 @@
 
 <h3>Languages</h3>
 <p>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -55,18 +50,18 @@
     <img src="https://img.shields.io/badge/Python-306aFF?style=for-the-badge&logo=python&logoColor=F2C63D"
       alt="Python"/>
   </a>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
 </p>
 
 <h3>Frameworks</h3>
 <p>
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/tailwind-13B8B7.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
-      alt="tailwindcss"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -74,6 +69,17 @@
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
+  <a href="https://rubyonrails.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+   <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/tailwind-13B8B7.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
+      alt="tailwindcss"/>
+  </a>
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="Webpack"/>
@@ -82,15 +88,15 @@
 
 <h3>Testing</h3>
 <p>
-      <a href="https://jestjs.io" target="_blank">
+  <a href="https://jestjs.io" target="_blank">
     <img src="https://img.shields.io/badge/jest-913F56.svg?style=for-the-badge&logo=jest&logoColor=white"
-      alt="bootstrap"/>
+      alt="Jest"/>
   </a>
 </p>
 
 <h3>Version Control & CI/CD</h3>
 <p>
-  <a href="https://github.com/daveZag" target="_blank">
+  <a href="https://github.com" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
@@ -98,6 +104,14 @@
       alt="Git"/>
   </a>
 </p>
+
+<h3>Cloud & Hosting:</h3>
+<p>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  </a>
+ </p>
+ 
 
 <h3>Other Tools</h3>
 <p>
@@ -123,8 +137,8 @@
 ## Github Status
 
 <p>
-<img align="left" style="margin-bottom: 20px; width: 390px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="davezag Github status" /></p>
+  <img align="left" style="margin-bottom: 20px; width: 390px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaveZag&show_icons=true&locale=en&layout=compact" alt="davezag Github status" />
+  <img align="left" style="margin-bottom: 20px; width: 400px" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en"     alt="davezag Github status" />
+</p>
 
-<p>&nbsp;<img align="left" style="margin-bottom: 20px; width: 400px" src="https://github-readme-stats.vercel.app/api?username=DaveZag&show_icons=true&theme=dark&locale=en" alt="davezag Github status" /></p>
-
-<h3 align="left"> Happy Coding! 🙃</h3>
+<h3> Happy Coding! 🙃</h3>
