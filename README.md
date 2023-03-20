@@ -1,11 +1,11 @@
 <h1 align="center">Hi  there<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Dave ZAGABE</h1>
-<h3 align="center">A web developer💻</h3>
+<h3 align="center">I'm a Full-stack developer💻</h3>
 <br>
 <img align="center" src = "./images/pexels-errin-casano-2356059.jpg"/>
 
 - 🔭 I’m currently studying at **Microverse.**
 
-- 🌱 I’m currently learning **ES6, React, Node.js and Ruby**
+- 🌱 I’m currently specializing in **ES6, React, Node.js and Ruby**
 
 - 👯 I’m looking to collaborate on **Projects and other cool creations.**
 
