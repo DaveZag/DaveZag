@@ -58,6 +58,10 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/sass-BF4080.svg?style=for-the-badge&logo=sass&logoColor=white"
+      alt="css3"/>
+  </a>
 </p>
 
 <h3>Frameworks</h3>
@@ -92,6 +96,10 @@
     <img src="https://img.shields.io/badge/jest-913F56.svg?style=for-the-badge&logo=jest&logoColor=white"
       alt="Jest"/>
   </a>
+  <a href="https://rspec.info/" target="_blank">
+    <img src="https://img.shields.io/badge/rspec-pink.svg?style=for-the-badge&logo=ruby&logoColor=black"
+      alt="Rspec"/>
+  </a>
 </p>
 
 <h3>Version Control & CI/CD</h3>
@@ -108,9 +116,12 @@
 <h3>Cloud & Hosting:</h3>
 <p>
   <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify"/>
   </a>
- </p>
+  <a href="https://render.com/" target="_blank">
+    <img src="https://img.shields.io/badge/render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  </a>
+</p>
  
 
 <h3>Other Tools</h3>
@@ -122,7 +133,7 @@
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/> 
   </a>
   <a href="https://www.kali.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Linux-FFF?style=for-the-badge&logo=linux&logoColor=yellow" alt="Linux"/>
   </a>
 </p>
 <br/>
