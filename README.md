@@ -3,7 +3,7 @@
 <br>
 <img align="center" src = "./images/pexels-errin-casano-2356059.jpg"/>
 
-- 🔭 I’m currently studying at **Microverse.**
+- 🔭 I’m currently enrolled at **Microverse.**
 
 - 🌱 I’m currently specializing in **ES6, React, Node.js and Ruby**
 
